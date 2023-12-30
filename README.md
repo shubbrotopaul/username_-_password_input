@@ -7,6 +7,7 @@ Code Breakdown:
 The script utilizes the input function to gather the user's username and password.
 
 username = input('What is your username?')
+
 password = input('What is your password?')
 
 
